@@ -1,2 +1,1 @@
-# csss
-ddd
+# CS 준비 
